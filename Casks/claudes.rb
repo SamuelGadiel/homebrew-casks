@@ -1,6 +1,6 @@
 cask "claudes" do
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000000000000000"
+  version "1.0.1"
+  sha256 "586c80743d0a2da7d6210ee30788f06c0707df70b23843dd06117e4ac85cbe51"
 
   url "https://github.com/SamuelGadiel/claudes/releases/download/v#{version}/ClaudeS-#{version}.zip",
       verified: "github.com/SamuelGadiel/claudes/"
